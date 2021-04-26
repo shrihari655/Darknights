@@ -1,0 +1,79 @@
+#a{
+	background-color: #05203c !important;
+	
+
+}
+
+.navbar-brand{
+	color: white !important;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 28px;
+}
+
+.navbar-nav li a{
+	color: white !important;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+}
+
+h2{
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+}
+
+#si{
+	color: white !important;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+
+}
+
+#se{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+}
+
+.dropdown-menu{
+	color: white;
+	background-color: #05203c;
+}
+
+.dropdown-item{
+	color: white;
+	background-color: #05203c;
+}
+
+.dropdown-item:hover{
+	color: white;
+	background-color:red;
+}
+
+
+body{
+	background-color:#132536;
+	font-family: 'Kaushan Script', cursive;
+}
+
+p{
+	font-family: 'Kaushan Script', cursive;
+	color:#b91d28;
+	margin: 10px;
+}
+
+img{
+	display: inline-block;
+	margin: 10px;
+	border:none;	
+	background-color:#132536; 	
+}
+
+#but{
+	color: white;
+	background-color:#b91d28;
+	border:none;
+	padding:5px;
+}
+
+#ah{
+	margin: 10px;
+}
